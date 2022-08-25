@@ -1,1 +1,1 @@
-# vagrant-plugin-tart
+# vagrant-tart

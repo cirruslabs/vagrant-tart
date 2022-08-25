@@ -1,0 +1,8 @@
+.idea
+
+main
+dist/*
+packer-plugin-tart
+.docs/*
+
+vagrant-tart
